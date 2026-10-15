@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "de"
+title = "ripertio"
+theme = ["PaperMod"]
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Beiträge"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "categories"
+    name = "Kategorien"
+    url = "/categories/"
+    weight = 20
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false

@@ -6,15 +6,21 @@ categories:
   - esg-reporting
 date: 2023-06-17
 showTableOfContents: false
+cover:
+  image: "feature_1st2ndorderpurpose_sustainability_report.webp"
 ---
 
 
-{{<alert>}}
+<div class="alert">
+
+
 1. Der Zweck von Nachhaltigkeitsberichten besteht darin, dass Organisationen transparent über nicht-finanzielle Impacts kommunizieren.
 2. Allerdings sind die meisten Berichte langweilig und enthalten viele Worte um nichts, sowie Standardbilder.
 3. Trotzdem werden sie erstellt, da insbesondere Investoren und Shareholder die Existenz eines Berichts als entscheidend erachten, unabhängig vom Inhalt.
 4. Eine schnelle Überfliegung eines Berichts reicht aus, um zu bewerten, ob die Organisation ihre Verantwortung wahrnimmt oder nicht. Dabei sollte man darauf achten, dass das Geschäftsmodell beschrieben wird, relative Zahlen bezüglich der negativen Auswirkungen verwendet werden, ob konkrete Ziele einschließlich Kennzahlen und Maßnahmen genannt werden und wie die Auswahl der zu berichtenden Themen erfolgt ist.
-{{</alert>}}
+
+
+</div>
 
 Immer mehr Akteure, insbesondere in der Unternehmenswelt, beschäftigen sich mit dem Thema Nachhaltigkeit. Hier hat sich in den letzten Jahren enorm viel verändert und es verändert sich weiter. Basierend auf verschiedenen Umfragen großer Unternehmensberatungen ist das Thema Nachhaltigkeit eines der Top-Themen von Unternehmen. Der Hauptgrund dafür ist die beschlossene und zeitnah anstehende ausführliche Nachhaltigkeitsberichtspflicht. Ähnlich dem Finanzbericht wird sich nicht gerade mit Freudensprüngen auf diese Aufgabe gestürzt, weil es mit sehr viel Aufwand verbunden ist und anders als beim Finanzbericht nicht so einfach ist, woher die nötigen Daten kommen werden. Gleichzeitig wird auch jetzt schon einiges an Aufwand betrieben, um einen Nachhaltigkeitsbericht zu schreiben. Warum eigentlich?
 
@@ -29,7 +35,7 @@ Basierend auf diesem ersten Zweck ergibt sich noch ein zweiter indirekter Zweck.
 Da ich versuche, solche Zusammenhänge immer visuell darzustellen, habe ich ein kurzes Modell erstellt, das ich "First and Second Order Purpose of Sustainability Reporting" nenne.
 
 
-{{<centerimg alt="MEME-purpose of systainability report" src="./feature_1st2ndorderpurpose_sustainability_report.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./feature_1st2ndorderpurpose_sustainability_report.webp" alt="MEME-purpose of systainability report" style="max-width: 100%;"></figure>
 
 Es zeigt, dass das Hauptziel von Nachhaltigkeitsberichten die Transparenz und Vergleichbarkeit nicht finanzieller Aspekte ist. Allerdings führt der Wunsch, in der Öffentlichkeit gut dazustehen, dazu, dass die entsprechende Organisation nachhaltiger wird.
 

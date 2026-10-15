@@ -6,13 +6,19 @@ categories:
     - productivity
 date: 2023-05-19
 showTableOfContents: true
+cover:
+  image: "feature_My_Productivity_system_Visual.svg"
 ---
 
-{{< alert>}}
-5 Praktiken und 4 Gewohnheiten, um möglichst effektiv zu arbeiten, die empfundene Belastung zu reduzieren, nach der Arbeit abzuschalten und ausreichend Freizeit zu haben.
-{{</alert>}}
+<div class="alert">
 
-{{<centerimg alt="myProductiviy-visual" src="./feature_My_Productivity_system_Visual.svg" maxwidth="100%">}}
+
+5 Praktiken und 4 Gewohnheiten, um möglichst effektiv zu arbeiten, die empfundene Belastung zu reduzieren, nach der Arbeit abzuschalten und ausreichend Freizeit zu haben.
+
+
+</div>
+
+<figure style="text-align: center;"><img src="./feature_My_Productivity_system_Visual.svg" alt="myProductiviy-visual" style="max-width: 100%;"></figure>
 
 Dies ist eine Übersicht über mein persönliches Produktivitätssystem, das ich während meines Masterstudiums entwickelt und weiterentwickelt habe. Es entstand aus der Notwendigkeit, zwei Masterprogrammen und einem Erweiterungsprogramm zu absolvieren und gleichzeitig als Freiberufler zu arbeiten. Es baut auf vielen bestehenden Erkenntnissen auf und wurde durch Zusammenfassungen von YouTubern und Mitgliedern der Obsidian-Community sowie anderen Büchern und Artikeln angepasst. **Das System ist eigentlich ziemlich einfach und basiert auf 5 Praktiken und 4 Gewohnheiten.**
 

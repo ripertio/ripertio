@@ -3,15 +3,21 @@ title: "Private und Soziale Kosten von Autobesitz und Nutzung"
 date: 2023-03-06
 categories: ["mobility", "sustainability"]
 summary: "Die Kosten ein Auto zu besitzen und zu nutzen werden unterschätzt und zu großen Teilen von der Gesellschaft getragen. Beides ist hinderlich für die klimafreundliche Verkehrswende. "
+cover:
+  image: "feature_yearlycosts_cars.webp"
 ---
-{{< alert "list">}} 
+<div class="alert">
+
+
 - Die Kosten des privaten Autobesitzes sind viel höher als die Gebühren und Steuern, die von den Fahrzeugbesitzern gezahlt werden (z.B. für die Straßeninfrastruktur, öffentliche Parkplätze, Umwelt-Luft- und Lärmbelastung, mögliche Folgen des Klimawandels, aber auch Unfälle oder andere gesundheitliche Schäden). 
 - Diese Kosten werden häufig unterschätzt. 
 - Diese Kosten werden von den "weniger als durchschnittlichen Fahrern", Bewohnern ohne Auto und der zukünftigen Gesellschaft getragen.
 - Die Lock-in-Effekte des Autos (bestehende Infrastruktur, mangelnde Mobilitätsalternativen, relativ niedrige variable Kosten des Autos)
 - a) setzen falsche Anreize für die Automobilität und 
 - b) führen dazu, dass je geringer das Einkommen, desto stärker die Haushalte von den Autokosten belastet werden.
-{{< /alert >}}
+
+
+</div>
 
 Mein erster Artikel/Beitrag hier auf dieser Website ist eine Zusammenfassung des open-access Articles von Gössling Kees und Litman [The lifetime cost of driving a car | Elsevier Enhanced Reader](https://reader.elsevier.com/reader/sd/pii/S0921800921003943?token=914515BCA328D08892061F6BBF28EC6D7B322A72047524F3E4EF9562AF10781489EE54C2E4ECAEBC85E669E15E396925&originRegion=eu-west-1&originCreation=20230207142030). Ein Artikel der die Kosten von dem Besitz und der Nutzung von Autos in Deutschland analysiert. Aus diesem Artikel möchte ich die meines Erachtens sechs wichtigsten Aspekte mit euch teilen. 
 
@@ -31,7 +37,7 @@ Der zweite und gesellschaftlich relevantere Punkt der Studie betrachtet die sozi
 Diese Kosten die durch die individuelle Nutzung bzw. den individuellen Besitz (ein Großteil der Schadschöpfung passiert in der Produktion des Autos - auch E-Autos) werden jedoch nicht von den privaten Autobesitzenden getragen, sondern von allen. Obwohl die Kosten für Lärmverschmutzung schwer zu berechnen sind, hat die Studie mittels verschiedener Methoden einen Wert für die sozialen Kosten bestimmt. 
 Die Ergebnisse haben mich erschreckt. Die Grafik veranschaulicht die Verhältnisse für drei Automodelle.
 
-{{<centerimg alt="yearly Costs" src="./feature_yearlycosts_cars.webp" max-widwth="100%">}}
+<figure style="text-align: center;"><img src="./feature_yearlycosts_cars.webp" alt="yearly Costs" style="max-width: 100%;"></figure>
 
 (Quelle - [The lifetime cost of driving a car | Elsevier Enhanced Reader](https://reader.elsevier.com/reader/sd/pii/S0921800921003943?token=914515BCA328D08892061F6BBF28EC6D7B322A72047524F3E4EF9562AF10781489EE54C2E4ECAEBC85E669E15E396925&originRegion=eu-west-1&originCreation=20230207142030)) 
 

@@ -2,8 +2,8 @@
 title: Wieso sind CO2-Kompensationen eigentlich problematisch?
 summary: In diesem Beitrag wird die Frage Beantwortet warum Carbon Offsets/CO2-Kompensation eigentlich problematisch sind in der Art und weise wie sie heute hauptsächlich verwendet werden.
 date: 2024-04-15T19:14:20.180Z
-cover: ""
-thumbnail: ""
+cover:
+  image: "feature_carbon-offsets-problems.webp"
 draft: false
 categories:
     - carbon-offsets
@@ -12,22 +12,30 @@ categories:
 
 In diesem Beitrag wird die Frage Beantwortet warum Carbon Offsets/CO2-Kompensation eigentlich problematisch sind in der Art und weise wie sie heute hauptsächlich verwendet werden. Also schnappt euch einen Getränk, und lasst uns gemeinsam herausfinden, warum Carbon Offsets nicht immer das halten, was sie versprechen.
 
-{{<centerimg alt="Visual warum sind CO2 Kompensationen Problematisch" src="./feature_carbon-offsets-problems.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./feature_carbon-offsets-problems.webp" alt="Visual warum sind CO2 Kompensationen Problematisch" style="max-width: 100%;"></figure>
 
-{{<alert>}}
+<div class="alert">
+
+
 ## TL;DR: Die Kurzversion
 - CO2-Kompensationen werden genutzt, um die eigene Klimabilanz aufzupolieren, indem man Zertifikate kauft, die theoretisch irgendwo auf der Welt Emissionen reduzieren.
 - Problem: Nicht alle Carbon Credits garantieren eine dauerhafte und zusätzliche Reduktion von CO2.
 - Die Nutzung von Kompensationen kann den notwendigen Wandel hin zu einer klimaneutralen Gesellschaft verzögern weil die Lern-Kurve für Decarbonisierungstechnologien/Geschäftsmodelle gehemmt wird und führt zu einer verzerrten Wahrnehmung von Klimaneutralität.
-{{</alert>}}
+
+
+</div>
 
 ## Einleitung
 
 Kompensationen werden von Privatpersonen, Organisationen oder Staaten angewandt, die ihre eigene CO2-Bilanz nominal verbessern möchten. Anders ausgedrückt: Wenn das Ziel darin besteht, weniger zum Klimawandel beizutragen, aber die Emissionen nicht vermieden oder reduziert werden können oder sollen, dann kauft man CO2-Zertifikate und kompensiert bzw. gleicht so die verursachten Emissionen aus. Die Zertifikate können auf freiwilligen CO2-Zertifikatsmärkten erworben werden.
 
-{{<alert>}}
+<div class="alert">
+
+
 **Randnotiz**: In diesem Artikel bzw. dieser Serie geht es nicht um den staatlich regulierten Emissionshandel, zum Beispiel der EU, USA, China. Dort werden zwar auch Emissionen gehandelt (wie der Name schon sagt), aber es dreht sich dort um verpflichtende Teilnehmer. Diese Organisationen erhalten jährlich eine bestimmte Anzahl an Emissionsberechtigungen (jede Berechtigung erlaubt das Ausstoßen von 1t CO2e), und wenn eine Organisation weniger benötigt, kann sie diese gewinnbringend an teilnehmende Organisationen verkaufen, die mehr CO2e emittieren möchten, als sie Berechtigungen erhalten haben. Dies ist jedoch ein eigenständiges Thema und wird in einem zukünftigen Artikel genauer beschrieben.
-{{</alert>}}
+
+
+</div>
 
 Dass der Markt für CO2-Zertifikate freiwillig und unreguliert ist, ist entscheidend für meine Einschätzung, warum die Art und Weise, wie Carbon Offsets aktuell verwendet werden, problematisch und teilweise sogar schädlich für die Bemühungen gegen den Klimawandel sind. Diese Einschätzung untergliedert sich in mehrere Argumente.
 
@@ -64,12 +72,16 @@ Die Berechnung der Baseline kann schnell sehr technisch und kompliziert werden. 
 
 Man könnte nun denken, dass dies keinen großen Unterschied macht. Doch eine Untersuchung des Öko-Instituts hat ermittelt, dass die Mehrheit der Certified Emissions Reduction (CER) Projekte von 2013-2020 möglicherweise nicht so effektiv war wie beabsichtigt. Die Daten legen nahe, dass 85% der Projekte und 73% des potenziellen CER-Angebots während dieses Zeitraums eine geringe Wahrscheinlichkeit aufweisen, dass die Emissionsreduktionen zusätzlich und nicht überschätzt sind. Das bedeutet, dass diese Projekte möglicherweise nicht die Umweltvorteile bieten, die sie zu bieten behaupten. Nur ein kleiner Teil dieser Projekte wurde als sehr wahrscheinlich eingestuft, ihre versprochenen Emissionsreduktionen zu liefern. Speziell hatten nur 2% der Projekte und 7% des potenziellen CER-Angebots eine hohe Wahrscheinlichkeit, dass ihre Emissionsreduktionen zusätzlich und nicht überschätzt sind - das sins erschreckend niedrige Zahlen!
 
-{{<alert>}}
+<div class="alert">
+
+
 **Zwischenzusammenfassung: Carbon Credits Halten nicht Immer, Was Sie Versprechen...**
 Weil sie entweder die Kriterien der **Permanenz** oder **Zusätzlichkeit** nicht erfüllen oder die **berechnete Baseline** und damit die Anzahl der ausgestellten CO2-Zertifikate ein höheres Reduktionspotenzial bescheinigt, als tatsächlich vorhanden ist. Deshalb ist die durch Carbon Offsets erworbene Net-Zero-/Klimaneutralität häufig nicht zutreffend. Diese Punkte werden auch in diesen zwei Videos aufgegriffen.
 - [Last Week Tonight 2023 Carbon Offsets](https://www.youtube.com/watch?v=6p8zAbFKpW0&pp=ygUNQ2FyYm9uIG9mZnNldA%3D%3D) - große Empfehlung!
 - [DW Planat A - Why Carbon Offsets are worse than you think](https://www.youtube.com/watch?v=61SWIYwCaSE) gute Zusammenfassungs insbesondere der Nature-Based Reduktionsprojekte wie Wald-Aufforstung
-{{</alert>}}
+
+
+</div>
 
 ### Der Freiwillige Kohlenstoffmarkt Verzögert Den Wandel Hin Zur Klimaneutralität
 Ein weiterer Grund und meiner Meinung die relevanteste Problematik, warum Carbon Offsetting, also die Praktik des Kompensieren selbst, problematisch ist, liegt in der Annahme, dass es den Wandel zur Klimaneutralität verzögert. Dies lässt sich am besten an einem Beispiel erklären: 
@@ -88,11 +100,15 @@ Wie sieht es nun in der Praxis aus? Vermeiden Unternehmen ihre Emissionen, indem
 
 Sie halten also an ihrem Geschäftsmodell fest, welches immer mehr den Klimawandel verstärkt, und erkaufen sich Klimaneutralität und das grüne Umweltimage durch CO2-Zertifikate.
 
-{{<alert>}}
+<div class="alert">
+
+
 **Die Konsequenzen sind zweierlei:**
 - **a)** Unternehmen, die kostenintensive (jedoch gesellschaftlich wertvolle) Maßnahmen zur Vermeidung ihrer Emissionen ergreifen, sind entweder bei gleich viel investiertem Geld nicht klimaneutral oder müssen wesentlich mehr Geld aufbringen. In beiden Fällen sind sie weniger wettbewerbsfähig. Und
 - **b)** [Carbon Credits halten häufig nicht was sie Versprechen](#carbon-credits-halten-nicht-immer-was-sie-versprechen): Wegen der Probleme der CO2 Zertifikate selbst sind Unternehmen die für jede emittierte CO2 Tonne ein Zertifikat kaufen häufig gar nicht klimaneutral und verstärken so die Wettbewerbsverzerrung, da ein großer Teil der günstigen, Natur-Based Zertifikate aufgrund der fehlenden Permanenz, Zusätzlichkeit und falscher Baseline-Berechnung weniger CO2 kompensiert, als sie versprechen – und das viel weniger.
-{{</alert>}}
+
+
+</div>
 
 ### Rebound Effekte+
 

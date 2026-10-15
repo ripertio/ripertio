@@ -5,19 +5,29 @@ draft: false
 summary: Ohne ESG-Datenmanagement ist es unmöglich, die Einhaltung von Vorschriften zu gewährleisten oder die Nachhaltigkeitsleistung zu verbessern.
 categories:
 - corporate-sustainability
+cover:
+  image: "feature_esg-sustainability-value-streem.webp"
 ---
-{{<alert icon="circle-info" cardColor="LightGray" >}}
+<div class="alert">
+
+
 Dieser Beitrag ist ein Repost des Originalartikels, welHen ich  am 1. August im Rahmen meiner Arbeit [hier](https://www.cgi.com/de/de/blog/nachhaltigkeit/esg-datenmanagement-warum-unverzichtbar-und-wie-aufbauen) veröffentlicht habe.
-{{</alert>}}
 
 
-{{<alert>}}
+</div>
+
+
+<div class="alert">
+
+
 ### TLDR:
 Ohne ESG-Datenmanagement ist es unmöglich, die Einhaltung von Vorschriften zu gewährleisten oder die Nachhaltigkeitsleistung zu verbessern. Um ein funktionales ESG-Datenmanagementsystem zu erreichen, sind drei Eckpfeiler unerlässlich:
 - Relevante ESG-Metriken identifizieren
 - Ownership-Driven ESG Data Governance
 - Inkrementelle Entwicklung/Verbesserung einzelner Datenpipelines
-{{</alert>}}
+
+
+</div>
 
 
 In der sich schnell entwickelnden Landschaft der Unternehmensnachhaltigkeit ist ESG- (Environmental, Social, and Governance) Datenmanagement nicht nur ein Schlagwort, sondern ein Eckpfeiler für jede Organisation, die ESG oder Nachhaltigkeitsziele verfolgt. Obwohl es nicht das faszinierendste Thema im Bereich IT und Nachhaltigkeit ist, kann seine Bedeutung nicht ausreichend hervorgehoben werden. Das ESG-Datenmanagement ermöglicht effizientes Reporting, das Controlling von Nachhaltigkeitsinitiativen stellt sicher, so dass die Bemühungen tatsächlich zu ESG und Nachhaltigkeitszielen beitragen. Es geht nicht nur um Compliance, sondern es geht darum, Nachhaltigkeit sichtbar, umsetzbar und operativ zu machen.
@@ -27,7 +37,7 @@ Stellen Sie sich vor, Sie wollen Ihre Gesundheit verbessern, ohne jemals Ihren B
 
 Im Kern geht es beim ESG-Datenmanagement darum, fundierte Entscheidungen zu ermöglichen und die erforderlichen ESG-Datenpunkte dafür und für die Einhaltung von Reporting-Vorschriften zu erhalten. Es ermöglicht Organisationen, Daten über ihre Umwelt-, Sozial- und Governance-Auswirkungen zu aggregieren und komplexe Informationen in umsetzbare Erkenntnisse zu verwandeln. Dies ist unerlässlich, um Vorschriften einzuhalten oder wirksame Maßnahmen zur Reduzierung negativer Auswirkungen zu entwerfen und zu kontrollieren, wie die folgenden Value Streams veranschaulichen.
 
-{{<centerimg alt="Grafische Darstellung des ESG Data Management" src="feature_esg-sustainability-value-streem.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="feature_esg-sustainability-value-streem.webp" alt="Grafische Darstellung des ESG Data Management" style="max-width: 100%;"></figure>
 
 Leider ist der Weg zum effektiven ESG-Datenmanagement mit Herausforderungen gespickt, da es in alle Unternehmensbereiche und -praktiken eingebettet ist, einschließlich Liefer- und Wertschöpfungsketten. Es erfordert die Sammlung von Daten über eine Vielzahl von Aktivitäten, von Energieverbrauch und Abfallproduktion bis hin zu Mitarbeiterdiversität, Corporate-Governance-Praktiken und Menschenrechten in der Lieferkette. Die Komplexität wird durch unterschiedliche Datenqualität und -zugänglichkeit, die komplexe und dynamische regulatorische Landschaft und die Notwendigkeit spezieller Fähigkeiten zur Interpretation und Umsetzung der Daten weiter verstärkt. Darüber hinaus integrieren sich die meisten ESG-Softwarelösungen nicht nahtlos in bestehende Unternehmens-IT-Landschaften, was die Komplexität und den Aufwand für die Implementierung eines effektiven ESG-Datenmanagements erhöht.
 

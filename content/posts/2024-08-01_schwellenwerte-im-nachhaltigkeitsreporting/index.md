@@ -2,17 +2,21 @@
 title: Keine Bienen, kein Honig! ähhh ... keine Schwellenwerte, kein Nachhaltigkeitsbericht!
 summary: ""
 date: 2024-07-25
-cover: ""
-thumbnail: ""
+cover:
+  image: "feature_board_room_meme.webp"
 draft: false
 categories:
   - esg-reporting
   - corporate-sustainability
 ---
-{{<alert>}}
+<div class="alert">
+
+
 ## TL;DR
 Schwellenwerte sind entscheidend, um Nachhaltigkeit messbar und vergleichbar zu machen. Ohne klare Referenzwerte bleibt die Aussagekraft von Berichten begrenzt auf absolute ESG impacts. Im Rahmen der EU-Berichtspflicht können Unternehmen den Schwellenwert selbst festlegen, ab wann ein ESG-Thema wesentlich ist und sie darüber berichten müssen. Dies reduziert zwar die Komplexität der Berichterstattung, untergräbt aber die Logik von Nachhaltigkeit. Ohne Kontext und Schwellenwerte lassen CSRD-konforme Berichte keine Aussage über Nachhaltigkeit zu.
-{{</alert>}}
+
+
+</div>
 
 Vor Kurzem durfte ich an einer CSRD-Konferenz teilnehmen, die vom Münchner Kreis organisiert wurde. Es war eine spannende Veranstaltung, besonders für diejenigen, die sich bereits mit dem Thema des non-financial ESG (oder wie es häufiger genannt wird - Nachhaltigkeits-) Reporting beschäftigen. In diesem Beitrag möchte ich auf einen Punkt eingehen, der in den verschiedenen Impulsvorträgen mehrfach direkt und indirekt angesprochen wurde: **Schwellenwerte**.
 
@@ -30,7 +34,7 @@ Jetzt könnten wir natürlich sagen: "Das Problem der Vergleichbarkeit wird ja g
 
 Jedoch kann ich dann immer noch keine Aussage darüber treffen, ob die x t CO2e pro Person nachhaltig ist oder nicht (again 0t wären es), sondern lediglich kann ich die Unternehmen untereinander vergleichen - ein Best-in-Class-Ansatz. **Um eine Aussage über Nachhaltigkeit treffen zu können, braucht es immer Kontext und einen Referenzwert**.
 
-{{<centerimg alt="board room meme" src="./feature_board_room_meme.webp" maxwidth="700px">}}
+<figure style="text-align: center;"><img src="./feature_board_room_meme.webp" alt="board room meme" style="max-width: 700px;"></figure>
 
 ### Warum Kontext Entscheidend Ist
 
@@ -46,13 +50,17 @@ Deshalb braucht eine Nachhaltigkeitsaussage immer einen Referenzwert, einen Teil
 
 Nun gibt es noch ein zweites Schwellenwert-Problem in der CSRD, nämlich der Schwellenwert, ab wann ein Thema wesentlich ist und Unternehmen darüber berichten müssen. Dieser Schwellenwert wurde mehrfach explizit genannt in verschiedenen Impulsvorträgen. Der Schwellenwert wurde beschrieben als Instrument, um die Komplexität beim Erstellen des CSRD-Reports zu reduzieren - indem der Umfang an Themen (und damit zu berichtenden Datenpunkten) reduziert wird.
 
-{{<centerimg alt="gru plan meme" src="./gru_plan_meme.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./gru_plan_meme.webp" alt="gru plan meme" style="max-width: 100%;"></figure>
 
-{{<alert>}}
+<div class="alert">
+
+
 ### Kurzer Exkurs zur Doppelten Wesentlichkeitsanalyse
 
 Die doppelte Wesentlichkeitsanalyse der CSRD ist ein zentrales Instrument zur Bestimmung der relevanten Umwelt-, Sozial- und Governance-Themen (ESG-Themen) für ein Unternehmen. Alle Themen, die die finanzielle Leistung und Position des Unternehmens beeinflussen können, oder alle Themen, die durch Geschäftstätigkeiten des Unternehmens wesentlich beeinflusst werden, müssen berichtet werden. Dies soll zu einer transparenteren und ganzheitlicheren Berichterstattung führen, ohne Unternehmen mit Themen zu belasten, auf die sie keinen Einfluss haben. In dem Berichtsstandard ist auch ziemlich ausführlich geregelt, wie diese Analyse durchzuführen ist.
-{{</alert>}}
+
+
+</div>
 
 Es wurde des Weiteren als operativer Tipp genannt, sich an der Auswahl und dem Umfang an Themen zu orientieren, welche Early Adopters der CSRD der eigenen Branche gelistet haben. Dieser Tipp ist zwar praktisch, weil er konkret ist, recht einfach umsetzbar und vor allem Aufwand reduziert, welcher nötig ist/wäre, um den Wesentlichkeitsschwellenwert festzulegen. Gleichzeitig ist es jedoch problematisch, weil durch den subjektiven Schwellenwert die Logik von Nachhaltigkeit konterkariert wird. Wieso?
 

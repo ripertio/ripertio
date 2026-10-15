@@ -2,8 +2,8 @@
 title: CO2 Ausgleichszahlung so geht es effektive
 summary: ""
 date: 2024-07-06T12:51:29.919Z
-cover: ""
-thumbnail: ""
+cover:
+  image: "feature_matching-problems-approaches.webp"
 draft: false
 categories:
   - carbon-offsets
@@ -12,15 +12,19 @@ categories:
 
 Im letzten Artikel haben wir uns die Probleme von CO2-Zertifikaten und Carbon Offsetting angeschaut. Heute möchte ich weniger meckern und mehr darüber sprechen, wie Unternehmen, Organisationen und auch Privatpersonen Carbon Offsetting sinnvoll nutzen können, um wirklich etwas zu bewirken.
 
-{{<centerimg alt="Matching of Carbon Offsets Problsm and Solution" src="./feature_matching-problems-approaches.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./feature_matching-problems-approaches.webp" alt="Matching of Carbon Offsets Problsm and Solution" style="max-width: 100%;"></figure>
 
-{{<alert>}}
+<div class="alert">
+
+
 ## TL;DR Die sehr kurze Kurzversion
 Carbon Offsetting hat viele Probleme, aber es gibt Wege, wie Unternehmen und Privatpersonen es sinnvoll nutzen können. 
 - Vergesst "Net-Zero" und "Combansation Claims", 
 - setzt auf "Climate Contribution" und interne CO2-Preise. 
 - Kauft hochwertige Zertifikate oder solche vom EU Emissionshandel (ETS), um echte Emissionsreduktionen zu erzielen und die Lernkurve von Dekarbonisierungstechnologien zu beschleunigen.
-{{</alert>}}
+
+
+</div>
 
 
 Zur Erinnerung, hier sind die größten Probleme des aktuellen Carbon Markets:
@@ -66,7 +70,7 @@ All dies macht Net-Zero zu einem vergifteten Apfel, der zuerst lecker schmeckt u
 ## Verzögerte Lernkurve: Vergesst "Net-Zero" Die Zweite Und Hallo "Climate Contribution" + Internal Carbon Price
 Die für mich fundamentalste Kritik am freiwilligen ("voluntary") Carbon Market ist, dass er die Lernkurve von Dekarbonisierungstechnologien und -prozessen verzögert. Wie im vorherigen Kapitel erläutert, trägt das Konzept von Net Zero zu dieser Verzögerung bei. Der freiwillige Carbon Market basiert auf tonnenbasierten Reduktionszertifikaten. Dies wird als "Compensation-Claim" bezeichnet: "*Ich bin Net Zero, weil ich jede Tonne, die durch meine Tätigkeiten emittiert wurde, kompensiere*". (Note: dies hängt jedoch stark davon ab, was alles in den Carbon-Footprint einbezogen wird, aber dies ist ein eigenes Thema!) Dies führt dazu, dass die billigsten Reduktionsprojekte bevorzugt werden, die jedoch nicht ausreichen, um die Problematik der globalen Dekarbonisierung zu lösen. Stattdessen bekämpfen sie lediglich Symptome, ohne die Ursachen anzugehen. Es ist, als würde man die Hand immer näher ans Feuer halten und Wasser darauf gießen, um die Hitze zu mildern, ohne das Feuer zu löschen oder die Handposition und -bewegung zu ändern. Net Zero wäre in diesem Bild, dass genug Wasser auf die Hand geschüttet wird, damit sie sich nicht verbrennt. Allerdings gibt es nicht genug Wasser, um dies dauerhaft und für die gesamte Gesellschaft als wirksame Methode zu gewährleisten, insbesondere weil die Hand immer näher ans Feuer geht.
 
-{{<centerimg alt="meme hand brennt" src="./hand-brennt-methaper.svg" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./hand-brennt-methaper.svg" alt="meme hand brennt" style="max-width: 100%;"></figure>
 
 
 Bleiben wir kurz in der Metapher - was müssen wir also tun, um unsere Handbewegungsrichtung zu verändern (das Feuer können wir nicht realistisch ändern, weil es in dieser Metapher die Sonne mit ihrer globalen Strahlung ist)?

@@ -6,15 +6,21 @@ draft: false
 categories:
     - hirnfurz
 slug: wieso-werden-viele-inhalte-immer-noch-als-pdf-veroffentlicht
+cover:
+  image: "feature_PDF-Vorteil-Nachteil-VISUAL.webp"
 ---
 
-{{< alert >}}
+<div class="alert">
+
+
 **Note:** Ich weiß nicht wie es euch geht aber mich frustriert es, wenn Textquellen nur im PDF-Format verfügbar sind. Es scheint immer noch viele Organisationen und Menschen zu geben, die ihre Inhalte ausschließlich in diesem Format veröffentlichen, ich bin kein großer Freund davon ... 
 
 Hier ist eine kurze Zusammenfassung meiner Gedanken zu den Vor- und Nachteilen von PDFs. Spoiler: die Nachteile überwiegen 😼.
-{{</ alert >}}
 
-{{<centerimg alt="PDF vorund nachteile" src="./feature_PDF-Vorteil-Nachteil-VISUAL.webp" maxwidth="900px">}}
+
+</div>
+
+<figure style="text-align: center;"><img src="./feature_PDF-Vorteil-Nachteil-VISUAL.webp" alt="PDF vorund nachteile" style="max-width: 900px;"></figure>
 
 Warum gibt es eigentlich immer noch so viele PDFs? Ehrlich gesagt, nerven sie mich. Klar, für bestimmte Anwendungsfälle wie das Drucken oder Präsentationen auf fremden Endgeräten sind PDFs eine tolle Sache. Sie sorgen dafür, dass egal von welchem Betriebssystem aus ich eine PDF-Datei öffnete, alles gleich formatiert und mit derselben Schriftart dargestellt wurde. Aber mal ehrlich, wer druckt denn heutzutage noch alles aus?
 
@@ -31,4 +37,4 @@ Insgesamt ist es daher für mich nur schwer verständlich, warum immer noch so s
 
 Also meine Bitte an euch liebe_r Leser_in: Wollt ihr Inhalte in Textform zur verfügung stellen? Bitte nicht als PDFs! oder zumindest nicht nur...🙏 
 
-{{<centerimg alt="drake meme" src="./drake_meme_pdf.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./drake_meme_pdf.webp" alt="drake meme" style="max-width: 100%;"></figure>

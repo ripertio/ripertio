@@ -4,10 +4,14 @@ date: 2023-04-12
 categories: [productivity, reflection, hirnfurz]
 draft: false
 summary: Individuelle Produktivitätssysteme, können mehr als nur helfen, effektiver zu arbeiten. Für mich ist ein gutes Produktivitätssystem eines, das Routinen und Praktiken beinhaltet, die unser Wohlbefinden verbessern.
+cover:
+  image: "feature_morpheus_productivity.jpg"
 ---
-{{<centerimg alt="meme-prductivity" src="./feature_morpheus_productivity.jpg" maxwidwth="100%">}}
+<figure style="text-align: center;"><img src="./feature_morpheus_productivity.jpg" alt="meme-prductivity" style="max-width: 100%;"></figure>
 
-{{<alert "list">}} 
+<div class="alert">
+
+
 Ich glaube, dass individuelle Produktivitätssysteme viel mehr leisten können als nur effektiveres Arbeiten zu ermöglichen. Für mich ist ein Produktivitätssystem dann gut, wenn es Routinen und Praktiken beinhaltet, die dazu beitragen:
 
 - unser Wohlbefinden zu steigern,
@@ -15,7 +19,9 @@ Ich glaube, dass individuelle Produktivitätssysteme viel mehr leisten können a
 - und uns mehr Zeit für "nicht-notwendige" Aktivitäten zu geben, die uns einfach große Freude bereiten. 
 
 Insbesondere der letzte Punkt findet meines Erarchtens zu wenig beachtung 💯
-{{</alert >}}
+
+
+</div>
 
 Als ich darüber nachdachte, diese Webseite aufzusetzen, war eine meiner ersten Ideen, über "mein" Produktivitätssystem zu schreiben. Nicht weil ich denke, dass es besonders herausragend ist, sondern hauptsächlich, weil mich einige Freunde und Bekannte gefragt haben, wie ich es geschafft habe, zwei Master-Abschlüsse, ein Erweiterungsstudium und meine Teilzeit-Freiberuflichkeit unter einen Hut zu bekommen. Die Antwort darauf ist "mein" Produktivitätssystem, das im Wesentlichen aus einigen grundlegenden, routinemäßigen Praktiken und Regeln besteht, die ich anwende. Dieses System hat sich Schritt für Schritt organisch entwickelt und tut es immer noch.
 
@@ -29,7 +35,7 @@ Output ist zwar allgemein verständlich und auf alle Bereiche übertragbar. Durc
 
 Meine Erklärung (ohne eine gescheite Analyse gemacht zu haben), warum ich und viele andere Menschen immer wieder den Drang nach MEHR individueller Produktivität verspüren, ist die Parallele zur kapitalistischen Produktivitätsperspektive und dem fundamentalen Wachstumsparadigma, das wir im globalen Norden seit unserer Kindheit erlebt haben.
 
-{{<centerimg alt="meme-business" src="./Business_is_Business.webp" maxwidth="600px">}}
+<figure style="text-align: center;"><img src="./Business_is_Business.webp" alt="meme-business" style="max-width: 600px;"></figure>
 
 
 Die Vorstellung von konstantem Wachstum im Bereich der individuellen Produktivität erscheint absurd. Ein Zitat aus dem vielgelesenen und gehypten Buch "Atomic Habits" verdeutlicht dies: "Wenn du dich jeden Tag um 1% verbesserst, bist du nach einem Jahr 37-mal besser" (frei übersetzt) . Dieses Zitat ist ein hervorragendes Beispiel für die Abstraktion des WAS und der Fokus auf das WIE. Wenn ich jeden Tag 1% Besser werden (Wie sieht 1% Besser eigentlich aus?) dann bin ich am Ende des Jahres 37mal besser - Wait WHAT?. Das Zitat verdeutlicht, warum dieses Paradigma in der Produktivitäts-Blase so vorherrscht. Zwar waren viele Passagen aus dem Buch nützlich und haben neue Gedanken angeregt, und ja das Zitat ist mit Sicherheit (hoffentlich) nicht wörtlich gemeint, trotzdem zeigt es welches Paradigma in der Produktivitätsbuble so vorherrscht

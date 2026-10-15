@@ -3,12 +3,18 @@ title: "klimafreundlicher-kochen.de eine Informationsquelle für den CO2-Fußabd
 date: 2023-02-26
 categories: [food, recommendation]
 summary: "www.klimafreundlicher-kochen.de: Rezeptvorschläge + CO<sub>2</sub> Fußabdruck"
+cover:
+  image: "feature_co2-veg-pide.webp"
 ---
-{{<alert "list">}} 
+<div class="alert">
+
+
 - Ich empfehle euch die Webseite www.klimafreundlicher-kochen.de
 - Sie gibt Rezeptvorschläge inclusive dem dezugehörigen CO<sub>2</sub> Fußabdruck
 - Wenn ihr euren Fußabdruck im Bereich Ernährung reduzieren wollt, dann ist diese Seite eine tolle Hilfe!
-{{</alert >}}
+
+
+</div>
 
 
 Ich möchte euch eine Webseite empfehlen! Über diese bin ich gestolpert, als ich diesen Blog/diese Webseite erstellt habe, da sie das gleiche Hugo-Theme ([congo](https://github.com/jpanther/congo)) verwenden. Ich habe mich durch die einzelnen Beispielseiten geklickt, die das Thema verwenden, nur um zu schauen, wie andere das Thema umgesetzt haben und was sich alles machen lässt.
@@ -22,7 +28,7 @@ Auf www.klimafreundlicher-kochen.de ist für jedes Rezept dargestellt, welchen A
 
 Hier ein Beispiel von einer [vegetarischen Pide](https://www.klimafreundlicher-kochen.de/rezept/vegetarische-pide/).
 
-{{<centerimg alt="Pide" src="./feature_co2-veg-pide.webp" maxwidwth="">}}
+<figure style="text-align: center;"><img src="./feature_co2-veg-pide.webp" alt="Pide" style="max-width: 100%;"></figure>
 
 ## Die Transparenz
 Zum einen beschreibt Max, wie er den CO<sub>2</sub>-Fußabdruck des jeweiligen Berichts berechnet und dass es sich nur um eine Schätzung handelt. Dazu zählt auch, was alles nicht mit eingerechnet wird, z.B. der Einkaufsweg. Außerdem stellt er alle Quellen zur Verfügung (inklusive einer Übersichtstabelle aller Lebensmittel und deren CO<sub>2</sub>-Fußabdrücke), die er verwendet. Am meisten begeistert mich jedoch der Aufruf: wenn jemand Vorschläge oder Daten hat, mit denen die Schätzungen verbessert werden können, soll er sich doch bei Max per E-Mail melden. (Wenn ich so etwas lese, bekommen die Autor:innen bei mir immer direkt Pluspunkte 😜)

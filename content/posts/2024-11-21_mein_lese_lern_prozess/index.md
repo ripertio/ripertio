@@ -6,8 +6,12 @@ summary: Entdecke meinen sechsstufigen Lese- und Lernprozess, der Informationen 
 categories:
     - hirnfurz
     - productivity
+cover:
+  image: "feature_MeinLeseundLernProzess.svg"
 ---
-{{<alert icon="circle-info">}}
+<div class="alert">
+
+
 ## TLDR
 Ich finde es toll, zu lesen und Neues zu lernen, aber häufig blieb schon nach ein paar Tagen kaum noch etwas Konkretes hängen. Nach viel Try and Error habe ich einen Prozess entwickelt, der mir hilft, Informationen die ich spannend finde besser zu behalten und gleichzeitig mehr Spaß dabei zu haben. Vielleicht geht es euch ja ähnlich, und ihr sucht nach Wegen, das Gelernte langfristig zu verankern. Hier sind die sechs Schritte, die mir dabei helfen:
 
@@ -17,7 +21,9 @@ Ich finde es toll, zu lesen und Neues zu lernen, aber häufig blieb schon nach e
 4. "Atomic Notes" für einzelne Gedanken erstellen
 5. Notizen in Anki-Karten umwandeln
 6. Mit Anki-Karten lernen und wiederholen
-{{</alert>}}
+
+
+</div>
 
 Ahoi! Wenn ihr wie ich gerne lest, um Neues zu lernen oder euer Wissen zu vertiefen aber schon nach wenigen Tagen dich nur noch sehr wenig konkretes erinnern kannst, dann könnte dieser Beitrag spannend für euch sein.
 
@@ -27,7 +33,7 @@ Was mir jedoch wirklich geholfen hat, und vor allem den Spaß beim Lesen und Ler
 
 ## Der Lese (und Lern) Prozess
 
-{{<centerimg alt="Mein Lern und Lese Prozess" src="./feature_MeinLeseundLernProzess.svg" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./feature_MeinLeseundLernProzess.svg" alt="Mein Lern und Lese Prozess" style="max-width: 100%;"></figure>
 
 ### Schritt 1: Lesen Mit Fragen Im Kopf
 
@@ -68,29 +74,29 @@ Der letzte Schritt besteht darin, 5-15 Minuten (je nach Lust, Laune und Zeit) di
 ## Ein Konkretes Beispiel
 Damit der Prozess nicht so generisch ist, hier ein konkretes Beispiel von einem Text welchen ich kürzlich gelesen habe:
 
-{{<centerimg alt="Flow1" src="./Mein Lese-Prozess Flow1.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow1.webp" alt="Flow1" style="max-width: 100%;"></figure>
 (PS: Hannah Ritchy - beste Frau!! ich bin Fan Boy, große Empfehlung ist ihr Buch https://www.nottheendoftheworld.co.uk/)
 
 **Schritt 1: Lesen mit Frage im Kopf:** Meine Frage war "Wieso ist es der Prozess wie KlimaZiele erreicht werden wichtig" Während des Lesens habe ich verschiedene Passagen gefunden, die ich besonders spannend fand. Eine dieser Passagen war:
 
 **Schritt 2 Markieren:** Ich habe diese Passage hervorgehoben und weitergelesen.
-{{<centerimg alt="Flow2" src="./Mein Lese-Prozess Flow2.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow2.webp" alt="Flow2" style="max-width: 100%;"></figure>
 
 
 **Schritt 3 Tägliche Reviews** Diese markierten Passagen tauchen nun in unregelmäßigen Abständen in meinem täglichen Readwise-Review auf, wie hier zu sehen:
-{{<centerimg alt="Flow3" src="./Mein Lese-Prozess Flow-1.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow-1.webp" alt="Flow3" style="max-width: 100%;"></figure>
 
 **Schritt 3 Obsidian Notiz** Gleichzeitig importiert meine Notiz-App Obsidian automatisch alle Markierungen aus dem Artikel. Das sieht dann ungefähr so aus:
-{{<centerimg alt="Flow31" src="./Mein Lese-Prozess Flow3.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow3.webp" alt="Flow31" style="max-width: 100%;"></figure>
 Hier seht ihr die im Reader hervorgehobene Passage (Zeile 17 mit dem blauen Balken).
 
 **Schritt 4 Erstellen von Atomic Notes:** Beim Durchsehen der Inhalte fand ich diese Passage immer noch so spannend, dass ich dazu eine eigenständige Notiz verfasst habe. Diese trägt den Titel: "CO2 Budget is a question of 'area' (process) not of 'point' (goal)" und sieht so aus:
-{{<centerimg alt="flow4" src="./Mein Lese-Prozess Flow4-1.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow4-1.webp" alt="flow4" style="max-width: 100%;"></figure>
 
 **Schritt 5 Anki-Karten Erstellen:** Diese Notiz wird dann von meinem Skript aufgenommen und in eine Anki-Karte umgewandelt:
-{{<centerimg alt="flow5" src="./Mein Lese-Prozess Flow5-1.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow5-1.webp" alt="flow5" style="max-width: 100%;"></figure>
 **Schritt 6 Anki-Karten Lernen** Hier ist die Antwort auf der Rückseite der Karte. Da ich die Antwort noch ziemlich gut wiedergeben konnte, drücke ich auf "Good" und in vier Tagen wird mir die Karte erneut angezeigt.
-{{<centerimg alt="flow6" src="./Mein Lese-Prozess Flow.webp" maxwidth="100%">}}
+<figure style="text-align: center;"><img src="./Mein%20Lese-Prozess%20Flow.webp" alt="flow6" style="max-width: 100%;"></figure>
 
 
 
