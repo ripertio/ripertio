@@ -1,8 +1,10 @@
 baseURL = "/"
-languageCode = "de"
+locale = "de"
 title = "ripertio"
 theme = ["PaperMod"]
 enableRobotsTXT = true
+defaultContentLanguage = "de"
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
