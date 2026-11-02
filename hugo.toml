@@ -1,6 +1,6 @@
 baseURL = "/"
 locale = "de"
-title = "ripertio"
+title = "SillyBytes"
 theme = ["PaperMod"]
 enableRobotsTXT = true
 defaultContentLanguage = "de"
